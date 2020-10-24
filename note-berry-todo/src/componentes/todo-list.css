@@ -1,0 +1,36 @@
+.form-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*
+    font-size: calc(10px + 2vmin);
+    color: white;
+    */
+}
+
+.h2-text
+{
+    border-radius: 0.5rem;
+    background-color: #282829;
+    color: rgba(235, 231, 231, 0.836);
+    padding: 12px;
+    width: 229px;
+    border-color: #41414294;
+    font-size: 15px;
+    box-shadow: 0 5px 25px rgba(75, 75, 75, 0.2);
+    outline: none;
+}
+
+.button-delete
+{
+    border-radius: 0.5rem;
+    background-color: #282829;
+    color: rgba(235, 231, 231, 0.836);
+    margin-left: 1rem;
+    padding: 12px;
+    width: 150px;
+    border-color: #7b7b7e94;
+    font-size: 15px;
+    box-shadow: 0 5px 25px rgba(75, 75, 75, 0.2);
+    outline: none;
+}

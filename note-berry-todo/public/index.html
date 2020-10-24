@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    <title>NoteBarry</title>
+  </head>
+  <body>
+    <div id="root">
+      <div class="App-loader">
+        <header class="App-header-loader">
+          <img src="logo.svg" class="App-logo" alt="logo" />
+            <p>
+              Bem Vindo ao NoteBerry!
+            </p>
+            <div class="material_block">
+              <svg class="spinner" 
+                width="65px" height="65px" 
+                viewBox="0 0 66 66" 
+                xmlns="http://www.w3.org/2000/svg">
+                <circle class="circle" 
+                  fill="none" stroke-width="6" stroke-linecap="round" 
+                  cx="33" cy="33" r="30">
+                </circle>
+              </svg>
+            </div>
+            <p>LOADING....</p>
+        </header>
+      </div>
+    </div>
+    <script src="sw.js"></script>
+  </body>
+</html>
