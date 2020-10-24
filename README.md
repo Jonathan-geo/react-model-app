@@ -1,19 +1,11 @@
 <h1>React Model App</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=JavaScript&message=EXPRESS&color=red&style=for-the-badge&logo=JAVASCRIPT"/>
-  <img src="http://img.shields.io/static/v1?label=REACT&message=REACT&color=blue&style=for-the-badge%22"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20MODELO&color=green&style=for-the-badge"/>
+	<img src="https://img.shields.io/static/v1?label=JavaScript&message=EXPRESS&color=red&style=for-the-badge&logo=JAVASCRIPT"/>
+	<img src="https://img.shields.io/static/v1?label=JavaScript&message=REACT&color=red&style=for-the-badge&logo=JAVASCRIPT"/>
+	<img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20MODELO&color=green&style=for-the-badge"/>
 </p>
 
-
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Arquitetura](#arquitetura)
-
-... 
 
 ## Descrição do projeto 
 
